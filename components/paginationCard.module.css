@@ -1,0 +1,24 @@
+.paginationCard{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	background-color: #f00;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+
+}
+.blue{
+	background-color: #00f;
+}
+
+.red{
+	background-color: #f00;
+}
+	
